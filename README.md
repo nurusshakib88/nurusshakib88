@@ -6,7 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurusshakib88&label=Profile%20views&color=0e75b6&style=flat" alt="nurusshakib88" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<p align="left">
+
+<img align="right" alt="nurusshakib88" width="40%" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif"/>
+
 - 🔭 I’m currently working on **MERN Chat-App**
 
 - 🌱 I’m currently learning **python**
@@ -16,9 +18,8 @@
 - 💬 Ask me about **ReactJS, Html5, CSS3**
 
 - 📫 How to reach me **nurusshakib88@gmail.com**
- </p>
+
  
-<img align="right" alt="nurusshakib88" width="40%" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nurusshakib88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurusshakib88" height="30" width="40" /></a>
