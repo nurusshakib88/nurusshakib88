@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="nurusshakib88" width="40%" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif"/>
+<img align="right" style="border-radius: 8px;" alt="nurusshakib88" width="40%" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif"/>
 
 - 🔭 I’m currently working on **MERN Chat-App**
 
