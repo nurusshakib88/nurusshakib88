@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm NURUS SHAKIB</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" style="border-radius: 8px;" alt="nurusshakib88" width="40%" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif"/><br>
+<img align="right" style="border-radius: 8px;" alt="nurusshakib88" width="40%" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif"/><br><br><br><br><br><br><br>
 
 🔭 I’m currently working on MERN Chat-App<br>🌱 I’m currently learning python<br>👨‍💻 All of my projects are available at https://nurusshakib.netlify.app<br>💬 Ask me about ReactJS, Html5, CSS3<br>📫 How to reach me nurusshakib88@gmail.com
 
