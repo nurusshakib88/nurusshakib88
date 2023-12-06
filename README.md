@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://nurusshakib88.io)
+<img align="center" alt="nurusshakib88" style="height: 250px; object-fit: cover; width: 100%;" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 <h1 align="center">Hi 👋, I'm NURUS SHAKIB</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
