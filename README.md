@@ -1,4 +1,4 @@
-<img align="center" alt="nurusshakib88" width="100%" src="https://drive.google.com/file/d/1bvxGMVopHYrl_os--W0Kr1B0iSegGM9q/view?usp=sharing"/>
+<img align="center" alt="nurusshakib88" width="100%" src="https://keen-zuccutto-7ac836.netlify.app/assets//web%20app%20developer%20nurusshakib.gif"/>
 <h1 align="center">Hi 👋, I'm NURUS SHAKIB</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩</h3>
 
